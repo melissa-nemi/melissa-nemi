@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Estou aprendendo para ser desenvolvedora web e ainda estou começando então neo reparem na bagunça. <br>
+Estou aprendendo para ser desenvolvedora web e ainda estou começando então não reparem na bagunça. <br>
  💬 Sobre mim 💬<br>
 Já cursei Psicologia, já fui streamer, entre outras coisas, agora acredito que me encontrei na area de tecnologia, então vamos lá!
 
